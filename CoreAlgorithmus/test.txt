@@ -1,0 +1,2 @@
+Anzahl von Eingabeelementen;Core-Breite;Anzahl von Elementen im Core;Laufzeit in Millisek.;Die Anzahl der ParetoOptimal
+0.0	0.006816429752306341	10.0	32.0	512.0
